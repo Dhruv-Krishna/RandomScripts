@@ -1,3 +1,9 @@
+"""
+Created on unknown
+
+@author: soupnook
+"""
+
 import re
 from HeaderExtractor import *
 

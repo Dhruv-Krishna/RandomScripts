@@ -1,3 +1,9 @@
+"""
+Created on unknown
+
+@author: soupnook
+"""
+
 import os
 import openpyxl
 from TableExtractor import *

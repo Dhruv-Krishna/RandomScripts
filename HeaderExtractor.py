@@ -1,3 +1,9 @@
+"""
+Created on unknown
+
+@author: soupnook
+"""
+
 from TableExtractor import *
 from nltk.tag import StanfordNERTagger
 from collections import Counter
